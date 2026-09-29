@@ -2,7 +2,7 @@
 
 Code for the figures of
 
-> A. C. Fassoni. *Stochastic gradient descent on the epigenetic landscape: a unified framework for cellular plasticity, tumor heterogeneity, and the asymptotic irrelevance of fitness.* Preprint, 2026. arXiv: *to be added*.
+> A. C. Fassoni. *Stochastic gradient descent on the epigenetic landscape: a unified framework for cellular plasticity, tumor heterogeneity, and the asymptotic irrelevance of fitness.* Preprint, 2026. arXiv.
 
 The proofs of the continuum results are in a separate paper, whose code is in [uniform-competition-continuum](https://github.com/arturfassoni/uniform-competition-continuum).
 
